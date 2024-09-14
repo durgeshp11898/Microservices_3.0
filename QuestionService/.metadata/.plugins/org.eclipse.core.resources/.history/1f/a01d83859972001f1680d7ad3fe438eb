@@ -1,0 +1,11 @@
+package com.learn.question.service.impl;
+
+import java.util.List;
+
+import com.learn.question.entity.Question;
+
+public class QuestionServiceImpl {
+
+
+
+}

@@ -1,0 +1,7 @@
+package com.learn.question.controller;
+
+@RestController
+@RequestMapping("/question")
+public class QuestionController {
+
+}

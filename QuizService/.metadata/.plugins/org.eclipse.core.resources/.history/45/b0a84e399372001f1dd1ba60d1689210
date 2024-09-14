@@ -1,0 +1,5 @@
+package com.learn.quiz.controller;
+
+public class QuizController {
+
+}

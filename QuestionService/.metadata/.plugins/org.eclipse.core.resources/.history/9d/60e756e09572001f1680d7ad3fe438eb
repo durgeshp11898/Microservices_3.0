@@ -1,0 +1,5 @@
+package com.learn.question.entity;
+
+public class QuestionEntity {
+
+}

@@ -1,0 +1,7 @@
+package com.learn.quiz.service.impl;
+
+import com.learn.quiz.service.QuizService;
+
+public class QuizServiceImpl implements QuizService{
+
+}

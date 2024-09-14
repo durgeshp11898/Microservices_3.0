@@ -1,0 +1,5 @@
+package com.learn.quiz.service;
+
+public interface QuestionClient {
+
+}
